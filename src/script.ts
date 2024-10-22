@@ -11,3 +11,8 @@ let fruits = ['apple', 'banana', 'orange'];
 
 
 fruits.push(34);
+
+let a : string;
+
+let b : (string | number)[] = [];
+
